@@ -5,6 +5,7 @@
 * MacOS Sonoma
 * Eclipse IDE
 * IntelliJ
+* Visual Studio Code
 * Postman
 * GitHub
 * Slack
