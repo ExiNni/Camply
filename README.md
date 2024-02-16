@@ -59,8 +59,19 @@
   * Elasticsearch, Logstash, Kibana, Filebeats
 
 ## :factory: 시스템 구조
-<img src="https://user-images.githubusercontent.com/40568894/136735965-4b807c84-02b4-4410-8bb1-771840a04102.jpeg" width="80%" height="80%">
+<img src=">
 
+## :link: Trouble Shooting
+* [trouble shooting]()
+
+
+
+## :link: ERD 설계
+* [Camply ERD]()
+
+
+
+<!--
 ## :link: API 서버 (Producer)
 * [API 서버](https://github.com/didrlgus/springboot-shoppingmall/tree/master/app/api-server) 
 
@@ -90,16 +101,12 @@
 ## :link: redis update 권한 서버
 * [redis update 권한 서버 Repository](https://github.com/didrlgus/redis-update-server)
 
-## :link: Trouble Shooting
-* [trouble shooting 기록](https://github.com/didrlgus/springboot-shoppingmall/issues?q=is%3Aissue+is%3Aopen+label%3Atroubleshooting)
+## :link: Rest API 문서
+* [shopping mall API 문서](https://github.com/didrlgus/springboot-shoppingmall/issues/58)
 
 ## :link: 성능 테스트
 * [초기 성능 테스트 결과](https://github.com/didrlgus/springboot-shoppingmall/issues/5)
 * [메인화면 API 캐시 적용 전, 후 성능 테스트 비교 결과](https://github.com/didrlgus/springboot-shoppingmall/issues/21)
 * [서버를 2대 돌리면 얼마나 더 많은 트래픽을 감당할 수 있을까?](https://github.com/didrlgus/springboot-shoppingmall/issues/46)
 
-## :link: ERD 설계
-* [shopping mall ERD](https://github.com/didrlgus/springboot-shoppingmall/issues/1)
-
-## :link: Rest API 문서
-* [shopping mall API 문서](https://github.com/didrlgus/springboot-shoppingmall/issues/58)
+-->
