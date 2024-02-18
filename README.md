@@ -98,6 +98,7 @@
 * lib 공통 모듈
   * [redis 공통 모듈](https://github.com/didrlgus/springboot-shoppingmall/tree/master/lib/redis)
   * [kafka 공통 모듈](https://github.com/didrlgus/springboot-shoppingmall/tree/master/lib/kafka)
+  
 
 ## :link: redis update 권한 서버
 * [redis update 권한 서버 Repository](https://github.com/didrlgus/redis-update-server)
