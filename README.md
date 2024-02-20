@@ -51,7 +51,7 @@
 
 * ## :factory: [시스템 구조](https://github.com/ExiNni/Camply/issues/2)
 ### 일반 회원
-<img src = "https://private-user-images.githubusercontent.com/86674480/306148480-bb176320-ca9b-46fb-8f51-a4441a03a211.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg0MDg2OTcsIm5iZiI6MTcwODQwODM5NywicGF0aCI6Ii84NjY3NDQ4MC8zMDYxNDg0ODAtYmIxNzYzMjAtY2E5Yi00NmZiLThmNTEtYTQ0NDFhMDNhMjExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIwVDA1NTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM4ZDg5NGZhNDcwOWIwZTNiY2VlYzFiZDQ3ZjVmOTcxNTU4NmRmNWE0MGQwMjJkNTYxZDgyNDQzNzZiOWZmNmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.belcxydLvnnWxen50T-3gsG54NWkM2VhmtNm2HS65_0"/>
+<img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EA%B5%AC%EB%A7%A4%EC%9E%90%20-%20%EC%9D%BC%EB%B0%98%ED%9A%8C%EC%9B%90.png"/>
 
 ### 판매자 회원
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8C%90%EB%A7%A4%EC%9E%90.png" />
