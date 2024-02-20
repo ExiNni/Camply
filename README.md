@@ -1,7 +1,7 @@
 # :camping: Spring &  React로 만든 캠핑 전문 사이트 Camply
 
 ## :clipboard: 개발환경
-<img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> <img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
+<img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> <img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
 
 ## :clipboard: 사용 기술
 ### 백엔드
