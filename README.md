@@ -59,16 +59,14 @@
 * ELK Stack
   * Elasticsearch, Logstash, Kibana, Filebeats
 
-## :factory: 시스템 구조
-<img src=">
-
-## :link: Trouble Shooting
-* [trouble shooting]()
-
-
-
 ## :link: ERD 설계
-* [Camply ERD]()
+* [Camply ERD](https://github.com/ExiNni/Camply/issues/1)
+
+* ## :factory: 시스템 구조
+* [Camply Figma]()
+
+* ## :link: Trouble Shooting
+* [trouble shooting]()
 
 
 
