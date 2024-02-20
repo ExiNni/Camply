@@ -76,8 +76,7 @@
 ### 판매자 회원
 <img src = "https://private-user-images.githubusercontent.com/86674480/306148523-d4096444-ed91-4396-87f6-2096bf463c5d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg0MDg2OTcsIm5iZiI6MTcwODQwODM5NywicGF0aCI6Ii84NjY3NDQ4MC8zMDYxNDg1MjMtZDQwOTY0NDQtZWQ5MS00Mzk2LTg3ZjYtMjA5NmJmNDYzYzVkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIwVDA1NTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3YmU2NDkzY2E1MzIxNWQ4NWUwMTQwNTljOGViOTk0MzU5ZDdlNDAwZjUxYjNmZmJhODhiYzEzODNmMWY3MGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7MwGtsIZInD0StCIilfoFAMmXxWDIC8fuTwBwWZVfs0" />
 
-* ## :link: Trouble Shooting
-* [trouble shooting](https://github.com/ExiNni/Camply/issues/3)
+* ## :link: [Trouble Shooting](https://github.com/ExiNni/Camply/issues/3)
 
 
 
