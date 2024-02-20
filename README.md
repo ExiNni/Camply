@@ -5,12 +5,7 @@
 
 ## :clipboard: 사용 기술
 ### 백엔드
-#### Spring boot
-<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-09B6A2?style=for-the-badge&logo=MyBatis&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-09B6A2?style=for-the-badge&logo=MyBatis&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
 
 #### Build tool
 * Maven
@@ -19,28 +14,20 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 #### AWS
-<img src="https://img.shields.io/badge/Amazon EC2-F8DC75?style=for-the-badge&logo=amazonec2&logoColor=black">
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
-<img src="https://img.shields.io/badge/Amazon ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
-<img src="https://img.shields.io/badge/Amazon amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon EC2-F8DC75?style=for-the-badge&logo=amazonec2&logoColor=black"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black"> <img src="https://img.shields.io/badge/Amazon ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"> <img src="https://img.shields.io/badge/Amazon amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=black">
 
 ### 프론트엔드
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
 ## :clipboard: 주요 키워드
 * REST API
 * 시큐리티
-* 배치
-* 스케줄링
-* HTTP 통신
-* JPA
+* 설계
+* MyBatis
 * 페이징
 * 트랜잭션
 * 예외처리
-* Git 버전관리
 * AWS EC2 배포
 
 ## :clipboard: 성능 테스팅 도구
