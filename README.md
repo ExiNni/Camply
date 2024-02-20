@@ -56,7 +56,7 @@
 ### 판매자 회원
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8C%90%EB%A7%A4%EC%9E%90.png" />
 
-## :factory: [개발](https://github.com/ExiNni/Camply/issues/4)
+## :factory: [구현기능](https://github.com/ExiNni/Camply/issues/4)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-20%20%EC%98%A4%ED%9B%84%203.40.13.png" />
 
 ## :link: [Trouble Shooting](https://github.com/ExiNni/Camply/issues/3)
