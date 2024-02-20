@@ -59,8 +59,7 @@
 * ELK Stack
   * Elasticsearch, Logstash, Kibana, Filebeats
 
-## :link: ERD 설계
-* [Camply ERD](https://github.com/ExiNni/Camply/issues/1)
+## :link: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
 
 * ## :factory: 시스템 구조
 * [Camply Figma]()
