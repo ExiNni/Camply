@@ -1,41 +1,39 @@
 # :camping: Spring &  React로 만든 캠핑 전문 사이트 Camply
 
 ## :clipboard: 개발환경
-* Window 10
-* MacOS Sonoma
-* Eclipse IDE
-* IntelliJ
-* Visual Studio Code
-* Postman
-* GitHub
-* Slack
+<img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> 
+<img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
 
 ## :clipboard: 사용 기술
 ### 백엔드
 #### Spring boot
-* JAVA 17
-* Spring
-* Spring Boot Security
-* MyBatis
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/MyBatis-09B6A2?style=for-the-badge&logo=MyBatis&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
 
 #### Build tool
 * Maven
 
 #### Database
-* Oracle
-* Redis
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 #### AWS
-* EC2
-* RDS
-* Route 53
-* Certificate Manager
+<img src="https://img.shields.io/badge/Amazon EC2-F8DC75?style=for-the-badge&logo=amazonec2&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=black">
 
 ### 프론트엔드
-* Javascript
-* Thymeleaf
-* jQuery
-* BootStrap
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
 
 ## :clipboard: 주요 키워드
 * REST API
