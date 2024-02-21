@@ -42,7 +42,9 @@
 
 ## :movie_camera: [시연 영상](https://www.youtube.com/watch?v=oHnlqWGNuAw)
 
-<iframe width="1254" height="705" src="https://www.youtube.com/embed/oHnlqWGNuAw" title="camply 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>  
+<div>
+<iframe width="1254" height="705" src="https://www.youtube.com/embed/oHnlqWGNuAw" title="camply 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## :building_construction: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
