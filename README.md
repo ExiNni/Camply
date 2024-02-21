@@ -43,8 +43,7 @@
 ## :movie_camera: [시연 영상](https://www.youtube.com/watch?v=oHnlqWGNuAw)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
 
-{% include video id="oHnlqWGNuAw" provider="youtube" %}
-
+<iframe width="956" height="538" src="https://www.youtube.com/oHnlqWGNuAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## :building_construction: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
