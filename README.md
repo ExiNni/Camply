@@ -60,7 +60,7 @@
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-20%20%EC%98%A4%ED%9B%84%203.40.13.png" />
 
 ## :link: [Trouble Shooting](https://github.com/ExiNni/Camply/issues/3)
-<img src = "https://private-user-images.githubusercontent.com/86674480/306155938-9ce5628c-29f7-4662-9d98-40c5367e3039.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg0MTA3MzgsIm5iZiI6MTcwODQxMDQzOCwicGF0aCI6Ii84NjY3NDQ4MC8zMDYxNTU5MzgtOWNlNTYyOGMtMjlmNy00NjYyLTlkOTgtNDBjNTM2N2UzMDM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIwVDA2MjcxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzNWI0ZDZkNjIxZmE5ZWY4NzQyYmQwZWMwZmIxZDg3NWE3NTliNWE4MjNhYTQ3YjViYTEwMzFhOWYwODJkN2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WOVzVYExDzztiKzaCVvX_wEjAtHQ6ePM7yx6Zad9sdE" />
+<img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-20%20%EC%98%A4%ED%9B%84%203.24.15.png" />
 
 <!--
 ## :link: API 서버 (Producer)
