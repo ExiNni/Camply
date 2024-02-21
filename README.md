@@ -40,6 +40,8 @@
 | ![Shin](https://github.com/rjswh0503.png) | ![BEOM](https://github.com/jibum1559.png) | ![chanakoh](https://github.com/chanakoh.png) | ![JongHwan](https://github.com/whdghks9241.png) | ![ExiNni](https://github.com/ExiNni.png) |
 | [Shin](https://github.com/rjswh0503)      | [BEOM](https://github.com/jibum1559)    | [chanakoh](https://github.com/chanakoh)    | [JongHwan](https://github.com/whdghks9241)     | [ExiNni](https://github.com/ExiNni)       |
 
+## :movie_camera: [시연 영상](https://www.youtube.com/watch?v=oHnlqWGNuAw)
+<img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
 
 ## :building_construction: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
