@@ -1,6 +1,6 @@
 # :camping: Spring &  React로 만든 캠핑 전문 사이트 Camply
 
-## :clipboard: 개발환경
+## :factory: 개발환경
 <img src="https://img.shields.io/badge/macOS Sonoma-000000?style=for-the-badge&logo=macos&logoColor=white"> <img src="https://img.shields.io/badge/Intellij Idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"> 
 
 ## :clipboard: 사용 기술
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=black"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 
-## :clipboard: 주요 키워드
+## :key: 주요 키워드
 * REST API
 * 시큐리티
 * 설계
@@ -29,11 +29,6 @@
 * 트랜잭션
 * 예외처리
 * AWS EC2 배포
-
-## :clipboard: 성능 테스팅 도구
-* K6
-* Grafana
-* InfluxDB
 
 ## :clipboard: 로그 분석 도구
 * ELK Stack
@@ -46,7 +41,7 @@
 | [Shin](https://github.com/rjswh0503)      | [BEOM](https://github.com/jibum1559)    | [chanakoh](https://github.com/chanakoh)    | [JongHwan](https://github.com/whdghks9241)     | [ExiNni](https://github.com/ExiNni)       |
 
 
-## :link: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
+## :building_construction: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
 
 ## :factory: [시스템 구조](https://github.com/ExiNni/Camply/issues/2)
@@ -56,10 +51,10 @@
 ### 판매자 회원
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%ED%8C%90%EB%A7%A4%EC%9E%90.png" />
 
-##🖥 [구현기능](https://github.com/ExiNni/Camply/issues/4)
+## :desktop_computer: [구현기능](https://github.com/ExiNni/Camply/issues/4)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-20%20%EC%98%A4%ED%9B%84%203.40.13.png" />
 
-## :link: [Trouble Shooting](https://github.com/ExiNni/Camply/issues/3)
+## :warning: [Trouble Shooting](https://github.com/ExiNni/Camply/issues/3)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-20%20%EC%98%A4%ED%9B%84%203.24.15.png" />
 
 <!--
