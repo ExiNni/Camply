@@ -60,8 +60,6 @@
 ## :warning: [Trouble Shooting](https://github.com/ExiNni/Camply/issues/3)
 <img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-02-20%20%EC%98%A4%ED%9B%84%203.24.15.png" />
 
-<iframe width="1254" height="705" src="https://www.youtube.com/embed/oHnlqWGNuAw" title="camply 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <!--
 ## :link: API 서버 (Producer)
 * [API 서버](https://github.com/didrlgus/springboot-shoppingmall/tree/master/app/api-server) 
