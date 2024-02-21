@@ -42,6 +42,9 @@
 
 ## :movie_camera: [시연 영상](https://www.youtube.com/watch?v=oHnlqWGNuAw)
 
+[깃허브 리드미에 유튜브 영상 넣기](https://www.youtube.com/watch?v=oHnlqWGNuAw)
+
+
 <div>
 <iframe width="1254" height="705" src="https://www.youtube.com/embed/oHnlqWGNuAw" title="camply 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
