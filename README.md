@@ -83,7 +83,7 @@
   * [app 공통 모듈](https://github.com/didrlgus/springboot-shoppingmall/tree/master/app/common)
 
 * lib 공통 모듈
-  * [redis 공통 모듈](https://github.com/didrlgus/springboot-shoppingmall/tree/master/lib/redis)
+  * [redis 공통 모듈](https://github.com/didrlgus/springboot-shoppingmall/tree/master/lib/redis) 
   * [kafka 공통 모듈](https://github.com/didrlgus/springboot-shoppingmall/tree/master/lib/kafka)
   
 
