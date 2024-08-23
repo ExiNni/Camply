@@ -45,7 +45,7 @@
 
 
 ## :building_construction: [ERD 설계](https://github.com/ExiNni/Camply/issues/1)
-<img src = "https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png"/>
+<img src="https://github.com/KHfive-guys/camply-main/blob/exinni/%EC%9D%B4%EB%AF%B8%EC%A7%80/Camply.png" alt="Camply 이미지"/>
 
 ## :factory: [시스템 구조](https://github.com/ExiNni/Camply/issues/2)
 ### 일반 회원
